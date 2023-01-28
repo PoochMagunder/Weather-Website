@@ -1,0 +1,18 @@
+*{
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+header{
+    background-color: rgb(72, 30, 148);
+    text-align: center;
+    color: white;
+    width: 100vw;
+
+}
+
+.search-label{
+    font-size: x-large;
+    font: bolder;
+}
